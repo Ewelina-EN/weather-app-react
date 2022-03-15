@@ -1,0 +1,9 @@
+.header {
+  font-size: 21px;
+  font-weight: bold;
+  color: #43affc;
+  padding: 16px 15px;
+  align-items: center;
+  border-bottom: 1px solid #ccc;
+  box-shadow: #777777;
+}
