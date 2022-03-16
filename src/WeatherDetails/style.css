@@ -1,0 +1,60 @@
+.wth_section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 335px;
+  background-color: #fff;
+  border-radius: 7px;
+  box-shadow: 0 0 10px #2e5a87c8;
+  margin: 10px;
+}
+
+.wth_icon {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 30px;
+}
+
+.deg {
+  font-size: 50px;
+  font-weight: bold;
+  align-items: center;
+  justify-content: center;
+}
+
+.descr {
+  text-align: center;
+  padding: 5px;
+  font-size: 21px;
+  margin: 5px 20px 15px;
+}
+
+.details {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  border-top: 1px solid #ccc;
+}
+
+.pressure {
+  display: flex;
+  justify-content: space-evenly;
+  width: 100%;
+  align-items: center;
+  padding: 15px 0;
+}
+
+.wind {
+  display: flex;
+  width: 100%;
+  justify-content: space-evenly;
+  align-items: center;
+  padding: 15px 0;
+  border-left: 1px solid #ccc;
+}
+
+.hidden {
+  display: none;
+  box-shadow: 0 0 10px #2e5a87c8;
+}
